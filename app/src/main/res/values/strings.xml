@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica_3_Actividades</string>
+    <string name="add">+</string>
+    <string name="equals">=</string>
+    <string name="result">resultado</string>
+    <string name="add_text">sumar</string>
+    <string name="sqr_text">raíz cuadrada</string>
+    <string name="title">Práctica 3 | Actividades</string>
+    <string name="title_activity_sqr">SqrActivity</string>
+</resources>
